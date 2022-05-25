@@ -1,4 +1,4 @@
-### Hello everyone and bounjour tout le monde :herb:
+### Hello everyone :herb:
 My name is Valeryia. I'm a data professional interested in Business, Marketing and e-Commerce. 
 I speak Russian, Engish and French.
 
