@@ -4,6 +4,6 @@ I speak Russian, Engish and French.
 
 - 🔭 I’m currently working on A/B Testing and Statistics 
 - 🌱 I’m currently learning Statistics & ML Algoritms aiming to use these tools for User/Customer research, Marketing and e-Commerce. I'd like to make researches on future trends in e-Commerce and learn how new behaviour patterns impact upon businesses and life around the globe
-- 🤔 I’m looking for help with Statistics methodologies and Machine Learning Algorithms
+- 🤔 I’m looking for help with Statistics methodologies and Machine Learning Algorithms, Natural Language Processing in particular
 - 📫 How to reach me: @interwoven on Telegram
 - ⚡ Fun fact: j'adore la langue française! 
